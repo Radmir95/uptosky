@@ -68,7 +68,7 @@ currentSpeed *= 0.9f;
     }
     */
     public float angle=45f;
-    private float currentAngle = 0f;
+    private float currentAngle = 0.0f;
     void Start()
     {
     }
